@@ -1,0 +1,11 @@
+{
+  "name": "s3c4-start",
+  "version": "1.0.0",
+  "description": "Can log \"hello world\" and \"goodbye world\" to the console!",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s3c4/firts"
+  }
+}
